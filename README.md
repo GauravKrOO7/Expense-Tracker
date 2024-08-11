@@ -1,7 +1,5 @@
 # Expense-Tracker
 
-expense-tracker-3g12dhw0d-gauravkroo7s-projects.vercel.app
-
 I developed a comprehensive full-stack Expense Management website using a modern tech stack, including Next.js, React, Tailwind CSS, Drizzle ORM, and Clerk. This project was designed to provide users with a powerful tool for managing their finances more effectively, offering features that enhance financial visibility, budgeting accuracy, and overall user experience.
 
 # Key Features and Technologies:
